@@ -1,4 +1,4 @@
-AppleALC
+appleALC
 ========
 
 [![Build Status](https://travis-ci.org/acidanthera/AppleALC.svg?branch=master)](https://travis-ci.org/acidanthera/AppleALC) [![Scan Status](https://scan.coverity.com/projects/16166/badge.svg?flat=1)](https://scan.coverity.com/projects/16166)
